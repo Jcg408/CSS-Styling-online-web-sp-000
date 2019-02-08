@@ -52,5 +52,6 @@ figcaption {
 }
 
 #details a:hover {
-  color: ;
+  color: black;
+  text-decoration: underline;
 }
